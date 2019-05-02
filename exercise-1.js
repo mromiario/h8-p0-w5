@@ -1,4 +1,4 @@
-//M Romi Ario - Exercise 1-Week 1
+//M Romi Ario - Exercise 1-Week 5
 function sorting(arrNumber) {
     var i = 0;
     while(i<arrNumber.length-1){
