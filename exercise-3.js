@@ -1,3 +1,4 @@
+//M Romi Ario - Exercise 3 Week 5
 function makanTerusRekursif(waktu) {
   if (waktu==0){
      return 0;
